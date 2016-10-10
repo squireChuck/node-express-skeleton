@@ -1,0 +1,92 @@
+{
+	"variables": [],
+	"info": {
+		"name": "node-express-skeleton",
+		"_postman_id": "bcefaf6a-ceff-69a1-70f6-fd5024b048eb",
+		"description": "GET and POST example",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET /app/api/v1",
+			"request": {
+				"url": "http://localhost:3000/app/api/v1",
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "name",
+							"value": "jason",
+							"type": "text",
+							"enabled": true
+						},
+						{
+							"key": "count",
+							"value": "12",
+							"type": "text",
+							"enabled": true
+						}
+					]
+				},
+				"description": "Simple GET example"
+			},
+			"response": []
+		},
+		{
+			"name": "POST /app/api/v1 ",
+			"request": {
+				"url": "http://localhost:3000/app/api/v1",
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "name",
+							"value": "Chuckles",
+							"type": "text",
+							"enabled": true
+						},
+						{
+							"key": "count",
+							"value": "12",
+							"type": "text",
+							"enabled": true
+						}
+					]
+				},
+				"description": "Simple POST example"
+			},
+			"response": []
+		},
+		{
+			"name": "GET /app/api/v1/text",
+			"request": {
+				"url": "http://localhost:3000/app/api/v1/text",
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "name",
+							"value": "jason",
+							"type": "text",
+							"enabled": true
+						},
+						{
+							"key": "count",
+							"value": "12",
+							"type": "text",
+							"enabled": true
+						}
+					]
+				},
+				"description": "Another GET example"
+			},
+			"response": []
+		}
+	]
+}
