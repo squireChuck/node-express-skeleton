@@ -1,4 +1,7 @@
 # node-express-skeleton
+## Intro
+Simple skeleton structure I've used a couple times and really easy to set up, i.e. if you want a new server app, copy the example, change the route to serve your index.html, and voila, 2 minutes and you have a whole new server app.
+
 ## Pre-req's
 Node and npm
 
@@ -23,4 +26,4 @@ Node and npm
 # Last thoughts
 If you're diving into the code and want a place to start, the server/app.js has most of the interesting stuff. I put a bunch of comments - hopefully that leads you to the pieces you're interested in.
 
-This isn't the most barebones examples... but there really isn't much extra fluff to it either. Simple skeleton structure I've used a couple times, i.e. if you want a new server app, copy the example, change the route to serve your index.html, and voila, 2 minutes and you have a whole new server app.
+This isn't the most barebones examples... but there really isn't much extra fluff to it either. Happy coding!
