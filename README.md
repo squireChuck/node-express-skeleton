@@ -23,7 +23,7 @@ Node and npm
   * POST /app/api/v1 using `{'name' : myName, 'count' : myCount}`
   * GET /app/api/v1/text
 
-# Last thoughts
+Last thoughts
 If you're diving into the code and want a place to start, the server/app.js has most of the interesting stuff. I put a bunch of comments - hopefully that leads you to the pieces you're interested in.
 
 This isn't the most barebones examples... but there really isn't much extra fluff to it either. Happy coding!
