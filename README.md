@@ -1,6 +1,8 @@
 # node-express-skeleton
 ## Intro
-Simple skeleton structure I've used a couple times (e.g. for the React tutorial) and really easy to set up, i.e. if you want a new server app, copy the example, change the route to serve your index.html, and voila, 2 minutes and you have a whole new server app.
+Simple skeleton I've used a couple times (e.g. for the React tutorial) and really easy to set up.
+
+If you want a new server app, copy the example, change the route to serve your index.html, and voila, 2 minutes and everything's set up.
 
 ## Pre-req's
 Node and npm
@@ -12,7 +14,7 @@ Node and npm
 
 4. After that's done, stay in the same folder and run `node app.js`
 
-5. Go to http://localhost:3000/app to view the quickie index.html I whipped up.
+5. Go to http://localhost:3000/app to view the quickie index.html I whipped up. If it loads, you're all set!
 
 ## Code of interest
 * Serving the index page (see server/app.js)
