@@ -2,7 +2,7 @@
 ## Intro
 Simple skeleton I've used a couple times (e.g. for the React tutorial) and really easy to set up.
 
-If you want a new server app, copy the example, change the route to serve your index.html, and voila, 2 minutes and everything's set up.
+If you want a new server app, copy the example, (optionally) change the route to serve your index.html, and voila, 2 minutes and everything's set up.
 
 ## Pre-req's
 Node and npm
